@@ -1,0 +1,440 @@
+2016/01/19 14:50:16
+sbttsprocess2.dll
+D:\sobey_intern\12\12\20160125TS读取准正式补丁(邓刚）\SDK_Runtime\release\sbttsprocess2.dll
+4.9.4.118
+20160125TS读取准正式补丁(邓刚）
+2016/01/06 16:18:24
+TsCombiner2.dll
+D:\sobey_intern\12\12\20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)\SDK_Runtime\Release\TsCombiner2.dll
+1.16.1.7
+20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)
+2016/04/22 16:57:59
+sbtmatroxavifw.dll
+D:\sobey_intern\12\12\20160422准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\sbtmatroxavifw.dll
+2.9.4.59
+20160422准正式补丁(肖潇、李君、熊彪）
+2015/12/04 14:59:36
+sbtmxfrw.dll
+D:\sobey_intern\12\12\20160107准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_x64\sbtmxfrw.dll
+3.225.350.360
+20160107准正式补丁(肖潇、李君、熊彪)
+2015/12/04 14:39:46
+sbtmxfrw.dll
+D:\sobey_intern\12\12\20160107准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbtmxfrw.dll
+3.225.350.360
+20160107准正式补丁(肖潇、李君、熊彪)
+2015/10/12 18:02:02
+sbtmxfencengine.dll
+D:\sobey_intern\12\12\20160119准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbtmxfencengine.dll
+3.6.40.42
+20160119准正式补丁(肖潇、李君、熊彪)
+2015/12/04 14:59:36
+sbtmxfrw.dll
+D:\sobey_intern\12\12\20160119准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_x64\sbtmxfrw.dll
+3.225.350.360
+20160119准正式补丁(肖潇、李君、熊彪)
+2016/04/21 10:18:26
+SBR_H264Decoder.dll
+D:\sobey_intern\12\12\20160421准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\CodecEX\SBR_H264Decoder.dll
+2.0.1.1
+20160421准正式补丁(肖潇、李君、熊彪）
+2016/01/19 13:45:56
+sbttsprocess2.dll
+D:\sobey_intern\12\12\20160119TS读取准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbttsprocess2.dll
+4.9.3.117
+20160119TS读取准正式补丁(肖潇、李君、熊彪)
+2015/12/14 04:37:32
+mc_bc_enc_avc.dll
+D:\sobey_intern\12\12\20151229正式补丁（罗俊）_海外专用\SDK_Runtime\release_x64\CodecEX\mc_bc_enc_avc.dll
+9.11.14.6521
+20151229正式补丁（罗俊）_海外专用
+2016/04/05 15:45:00
+sbtmxfboost.lib
+D:\sobey_intern\12\12\20160422mxfboost准正式补丁(肖潇、李君、熊彪）\SDK_Develop\LibR\sbtmxfboost.lib
+9999
+20160422mxfboost准正式补丁(肖潇、李君、熊彪）
+2016/04/05 17:05:47
+sbtmxfrw.dll
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\sbtmxfrw.dll
+3.225.368.378
+20160411准正式补丁(肖潇、李君、熊彪）
+2015/02/06 16:57:32
+SBR_H264FrameParse.dll
+D:\sobey_intern\12\12\20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)\SDK_Runtime\Release\SBR_H264FrameParse.dll
+1.0.0.3
+20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)
+2016/01/15 18:27:20
+sbttsprocess2.dll
+D:\sobey_intern\12\12\20160115TS读取准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_X64\sbttsprocess2.dll
+4.9.2.116
+20160115TS读取准正式补丁(肖潇、李君、熊彪)
+2016/04/22 16:51:26
+sbtmatroxavifw.dll
+D:\sobey_intern\12\12\20160422准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\sbtmatroxavifw.dll
+2.9.4.59
+20160422准正式补丁(肖潇、李君、熊彪）
+2016/04/25 18:22:39
+sbtavifrw.dll
+D:\sobey_intern\12\12\20160426准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\sbtavifrw.dll
+2.11.27.137
+20160426准正式补丁(肖潇、李君、熊彪）
+2015/10/22 13:51:14
+sbtmp4fw2.dll
+D:\sobey_intern\12\12\20160115准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbtmp4fw2.dll
+2.9.22.109
+20160115准正式补丁(肖潇、李君、熊彪)
+2016/04/01 14:08:30
+sbtmxfrw.dll
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\sbtmxfrw.dll
+3.225.368.378
+20160411准正式补丁(肖潇、李君、熊彪）
+2015/11/03 10:28:46
+sbtdecodeman.dll
+D:\sobey_intern\12\12\20151111准正式补丁(李君 肖潇 熊彪）\SDK_Runtime\release_X64\sbtdecodeman.dll
+1.2210.52.155
+20151111准正式补丁(李君 肖潇 熊彪）
+2015/12/02 16:55:34
+SbtMxfFileReader.dll
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\SbtMxfFileReader.dll
+2.222.149.153
+20160411准正式补丁(肖潇、李君、熊彪）
+2016/01/22 11:32:18
+sbtdecodeman.dll
+D:\sobey_intern\12\12\20160122MPEG4解码准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_X64\sbtdecodeman.dll
+1.2210.53.156
+20160122MPEG4解码准正式补丁(肖潇、李君、熊彪)
+2015/12/01 15:39:38
+sbtquicktimefr.dll
+D:\sobey_intern\12\12\20151201MOV检测准正式补丁(李君 肖潇 熊彪)\SDK_Runtime\release_X64\sbtquicktimefr.dll
+3.8.21.98
+20151201MOV检测准正式补丁(李君 肖潇 熊彪)
+2016/01/19 13:46:26
+sbttsprocess2.dll
+D:\sobey_intern\12\12\20160119TS读取准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_X64\sbttsprocess2.dll
+4.9.3.117
+20160119TS读取准正式补丁(肖潇、李君、熊彪)
+2015/09/22 15:52:15
+SBR_MHEVCCodec.dll
+D:\sobey_intern\12\12\20151026HEVC编码器正式补丁(赖真鹏）\SDK_Runtime\release_x64\CodecEX\SBR_MHEVCCodec.dll
+2.0.1.5
+20151026HEVC编码器正式补丁(赖真鹏）
+2015/12/04 14:39:46
+sbtmxfrw.dll
+D:\sobey_intern\12\12\20160119准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbtmxfrw.dll
+3.225.350.360
+20160119准正式补丁(肖潇、李君、熊彪)
+2015/11/17 10:34:07
+sbtcdrip.dll
+D:\sobey_intern\12\12\20151117准正式补丁(赖真鹏)\SDK_Runtime\release\sbtcdrip.dll
+3.0.3.4
+20151117准正式补丁(赖真鹏)
+2015/12/02 16:55:34
+SbtMxfFileReader.dll
+D:\sobey_intern\12\12\20160119准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_x64\SbtMxfFileReader.dll
+2.222.149.153
+20160119准正式补丁(肖潇、李君、熊彪)
+2016/03/11 10:43:44
+sbtmp4fw2.dll
+D:\sobey_intern\12\12\20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update\SDK_Runtime\release_X64\sbtmp4fw2.dll
+2.9.23.110
+20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update
+2016/04/12 16:32:28
+sbttsprocess2.dll
+D:\sobey_intern\12\12\20160412准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\sbttsprocess2.dll
+4.9.4.118
+20160412准正式补丁(肖潇、李君、熊彪）
+2016/01/15 10:27:46
+sbtmp4fr.dll
+D:\sobey_intern\12\12\20160115MP4读取准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbtmp4fr.dll
+3.15.22.178
+20160115MP4读取准正式补丁(肖潇、李君、熊彪)
+2015/08/05 11:55:28
+SonyXAVCEncoder.dll
+D:\sobey_intern\12\12\20160322XAVC准正式补丁（肖潇、李君、熊彪）\SDK_Runtime\release-x64\CodecEX\SonyXAVCEncoder.dll
+1.1.2.11
+20160322XAVC准正式补丁（肖潇、李君、熊彪）
+2015/12/01 15:39:04
+sbtquicktimefr.dll
+D:\sobey_intern\12\12\20151201MOV检测准正式补丁(李君 肖潇 熊彪)\SDK_Runtime\release\sbtquicktimefr.dll
+3.8.21.98
+20151201MOV检测准正式补丁(李君 肖潇 熊彪)
+2016/04/25 18:15:32
+sbtavifrw.dll
+D:\sobey_intern\12\12\20160426准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\sbtavifrw.dll
+2.11.27.137
+20160426准正式补丁(肖潇、李君、熊彪）
+2016/01/19 14:50:28
+sbttsprocess2.dll
+D:\sobey_intern\12\12\20160125TS读取准正式补丁(邓刚）\SDK_Runtime\release_X64\sbttsprocess2.dll
+4.9.4.118
+20160125TS读取准正式补丁(邓刚）
+2016/04/25 18:20:45
+sbth264utils.dll
+D:\sobey_intern\12\12\20160426准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\sbth264utils.dll
+1.2.0.13
+20160426准正式补丁(肖潇、李君、熊彪）
+2016/04/29 10:45:00
+sbtImagePro.dll
+D:\sobey_intern\12\12\20160429MOV素材解码正式补丁(吴若寒）\SDK_Runtime\release_X64\sbtImagePro.dll
+1.4.8.36
+20160429MOV素材解码正式补丁(吴若寒）
+2016/01/08 12:16:10
+sbtDecPluginSobeyDecoder.dll
+D:\sobey_intern\12\12\20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update\SDK_Runtime\release_X64\sbtDecPluginSobeyDecoder.dll
+1.0.15.16
+20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update
+2015/12/08 17:08:17
+SBR_XAVCSEncoderA.dll
+D:\sobey_intern\12\12\20151208XAVC接口增加帧类型输出正式补丁（杨军）\SDK_Runtime\release_x64\CodecEX\SBR_XAVCSEncoderA.dll
+1.0.1.0
+20151208XAVC接口增加帧类型输出正式补丁（杨军）
+2015/05/08 17:20:10
+SBT_TSDataStruct.h
+D:\sobey_intern\12\12\20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)\SDK_Develop\Include\SBT_TSDataStruct.h
+9999
+20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)
+2016/04/29 11:25:50
+sbtmediadet.dll
+D:\sobey_intern\12\12\20160429MP4检测准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_X64\sbtmediadet.dll
+3.2218.37.222
+20160429MP4检测准正式补丁(肖潇、李君、熊彪）
+2015/10/12 18:02:02
+sbtmxfencengine.dll
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\sbtmxfencengine.dll
+3.6.40.42
+20160411准正式补丁(肖潇、李君、熊彪）
+2016/01/15 16:09:00
+sbtwmvbufenc.dll
+D:\sobey_intern\12\12\20160126WMV检测准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_X64\sbtwmvbufenc.dll
+5.2.3.135
+20160126WMV检测准正式补丁(肖潇、李君、熊彪)
+2016/01/22 11:32:36
+sbtdecodeman.dll
+D:\sobey_intern\12\12\20160122MPEG4解码准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbtdecodeman.dll
+1.2210.53.156
+20160122MPEG4解码准正式补丁(肖潇、李君、熊彪)
+2015/07/17 10:15:18
+savcehpp.dll
+D:\sobey_intern\12\12\20160322XAVC准正式补丁（肖潇、李君、熊彪）\SDK_Runtime\release-x64\CodecEX\savcehpp.dll
+4.2.31.16000
+20160322XAVC准正式补丁（肖潇、李君、熊彪）
+2016/04/05 15:26:57
+sbtmxfboost.dll
+D:\sobey_intern\12\12\20160422mxfboost准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\sbtmxfboost.dll
+1.2.2.12
+20160422mxfboost准正式补丁(肖潇、李君、熊彪）
+2015/12/02 16:58:30
+SbtMxfFileReader.dll
+D:\sobey_intern\12\12\20160119准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\SbtMxfFileReader.dll
+2.222.149.153
+20160119准正式补丁(肖潇、李君、熊彪)
+2015/11/16 15:11:01
+sbth264utils.dll
+D:\sobey_intern\12\12\20151116准正式补丁(赖真鹏)\SDK_Runtime\release\sbth264utils.dll
+1.1.10.12
+20151116准正式补丁(赖真鹏)
+2016/02/01 13:57:40
+mp4box.lib
+D:\sobey_intern\12\12\20160201mp4box准正式补丁(李君、熊彪）\SDK_Develop\libr\mp4box.lib
+9999
+20160201mp4box准正式补丁(李君、熊彪）
+2015/10/30 16:39:26
+SBT_MXFDataStructDefine.h
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Develop\include\SBT_MXFDataStructDefine.h
+9999
+20160411准正式补丁(肖潇、李君、熊彪）
+2016/01/15 10:28:02
+sbtmp4fr.dll
+D:\sobey_intern\12\12\20160115MP4读取准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_X64\sbtmp4fr.dll
+3.15.22.178
+20160115MP4读取准正式补丁(肖潇、李君、熊彪)
+2015/12/02 16:58:30
+SbtMxfFileReader.dll
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\SbtMxfFileReader.dll
+2.222.149.153
+20160411准正式补丁(肖潇、李君、熊彪）
+2016/01/15 14:39:29
+TsSuitConfig.ini
+D:\sobey_intern\12\12\20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)\SDK_Runtime\Release\TsSuitConfig.ini
+9999
+20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)
+2016/01/15 16:06:24
+sbtwmvbufenc.dll
+D:\sobey_intern\12\12\20160126WMV检测准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbtwmvbufenc.dll
+5.2.3.135
+20160126WMV检测准正式补丁(肖潇、李君、熊彪)
+2014/12/15 13:07:26
+SMDK-VC90-x86-4_5_1.dll
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\SMDK-VC90-x86-4_5_1.dll
+4.5.1.100
+20160411准正式补丁(肖潇、李君、熊彪）
+2014/07/23 09:51:40
+SMDK-VC90-x64-4_5_1.dll
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\SMDK-VC90-x64-4_5_1.dll
+4.5.1.100
+20160411准正式补丁(肖潇、李君、熊彪）
+2015/12/02 16:34:15
+sbtmxfencengine.dll
+D:\sobey_intern\12\12\20160119准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_x64\sbtmxfencengine.dll
+3.6.40.42
+20160119准正式补丁(肖潇、李君、熊彪)
+2016/02/01 13:57:42
+mp4box.dll
+D:\sobey_intern\12\12\20160201mp4box准正式补丁(李君、熊彪）\SDK_Runtime\release\mp4box.dll
+1.0.0.1
+20160201mp4box准正式补丁(李君、熊彪）
+2016/01/08 12:15:46
+sbtDecPluginSobeyDecoder.dll
+D:\sobey_intern\12\12\20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update\SDK_Runtime\release\sbtDecPluginSobeyDecoder.dll
+1.0.15.16
+20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update
+2016/04/05 15:25:49
+SBT_MXFCCReader.h
+D:\sobey_intern\12\12\20160422mxfboost准正式补丁(肖潇、李君、熊彪）\SDK_Develop\Include\SBT_MXFCCReader.h
+9999
+20160422mxfboost准正式补丁(肖潇、李君、熊彪）
+2016/02/05 07:38:02
+mc_bc_enc_avc.dll
+D:\sobey_intern\12\12\20160216正式补丁（杨颖）\SDK_Runtime\release_x64\CodecEX\mc_bc_enc_avc.dll
+9.11.14.8295
+20160216正式补丁（杨颖）
+2015/12/02 16:34:15
+sbtmxfencengine.dll
+D:\sobey_intern\12\12\20160411准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\sbtmxfencengine.dll
+3.6.40.42
+20160411准正式补丁(肖潇、李君、熊彪）
+2016/04/25 18:12:41
+sbth264utils.dll
+D:\sobey_intern\12\12\20160426准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\sbth264utils.dll
+1.2.0.13
+20160426准正式补丁(肖潇、李君、熊彪）
+2016/01/15 11:15:08
+sbttsprocess2.dll
+D:\sobey_intern\12\12\20160115TS读取准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\sbttsprocess2.dll
+4.9.2.116
+20160115TS读取准正式补丁(肖潇、李君、熊彪)
+2016/04/29 11:25:46
+sbtmediadet.dll
+D:\sobey_intern\12\12\20160429MP4检测准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_X65\sbtmediadet.dll
+3.2218.37.222
+20160429MP4检测准正式补丁(肖潇、李君、熊彪）
+2016/04/05 15:45:03
+sbtmxfboost.dll
+D:\sobey_intern\12\12\20160422mxfboost准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\sbtmxfboost.dll
+1.2.2.12
+20160422mxfboost准正式补丁(肖潇、李君、熊彪）
+2015/11/03 10:28:34
+sbtdecodeman.dll
+D:\sobey_intern\12\12\20151111准正式补丁(李君 肖潇 熊彪）\SDK_Runtime\release\sbtdecodeman.dll
+1.2210.52.155
+20151111准正式补丁(李君 肖潇 熊彪）
+2016/04/18 12:11:37
+sbtdvbufenc.dll
+D:\sobey_intern\12\12\20160419准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release\sbtdvbufenc.dll
+3.11.1.32
+20160419准正式补丁(肖潇、李君、熊彪）
+2014/12/15 13:07:26
+SMDK-VC90-x86-4_5_1.dll
+D:\sobey_intern\12\12\20160119准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release\SMDK-VC90-x86-4_5_1.dll
+4.5.1.100
+20160119准正式补丁(肖潇、李君、熊彪)
+2016/03/22 15:05:38
+SBR_XAVCSEncoder.dll
+D:\sobey_intern\12\12\20160322XAVC准正式补丁（肖潇、李君、熊彪）\SDK_Runtime\release-x64\CodecEX\SBR_XAVCSEncoder.dll
+1.0.0.6
+20160322XAVC准正式补丁（肖潇、李君、熊彪）
+2015/07/17 10:15:18
+savcempc.dll
+D:\sobey_intern\12\12\20160322XAVC准正式补丁（肖潇、李君、熊彪）\SDK_Runtime\release-x64\CodecEX\savcempc.dll
+4.2.31.16000
+20160322XAVC准正式补丁（肖潇、李君、熊彪）
+2015/07/17 10:15:18
+savce.dll
+D:\sobey_intern\12\12\20160322XAVC准正式补丁（肖潇、李君、熊彪）\SDK_Runtime\release-x64\CodecEX\savce.dll
+4.2.31.16000
+20160322XAVC准正式补丁（肖潇、李君、熊彪）
+2016/04/26 17:33:22
+SBR_H264Decoder.dll
+D:\sobey_intern\12\12\20160427准正式补丁（肖潇、李君、熊彪）\SDK_Runtime\release-x64\CodecEX\SBR_H264Decoder.dll
+2.0.1.1
+20160427准正式补丁（肖潇、李君、熊彪）
+2016/03/11 11:14:44
+SBR_SobeyCodec.dll
+D:\sobey_intern\12\12\20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update\SDK_Runtime\release_X64\CodecEX\SBR_SobeyCodec.dll
+0.0.0.1
+20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update
+2015/06/02 12:07:58
+hpr48.dll
+D:\sobey_intern\12\12\20160322XAVC准正式补丁（肖潇、李君、熊彪）\SDK_Runtime\release-x64\CodecEX\hpr48.dll
+1.20.36.0
+20160322XAVC准正式补丁（肖潇、李君、熊彪）
+2016/04/12 16:32:03
+sbttsprocess2.dll
+D:\sobey_intern\12\12\20160412准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_x64\sbttsprocess2.dll
+4.9.4.118
+20160412准正式补丁(肖潇、李君、熊彪）
+2015/09/11 11:00:35
+SBR_VideoCodecData.h
+D:\sobey_intern\12\12\20151026HEVC编码器正式补丁(赖真鹏）\SDK_Develop\include\SBR_VideoCodecData.h
+9999
+20151026HEVC编码器正式补丁(赖真鹏）
+2016/03/11 10:43:08
+sbtmp4fw2.dll
+D:\sobey_intern\12\12\20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update\SDK_Runtime\release\sbtmp4fw2.dll
+2.9.23.110
+20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update
+2016/04/29 11:25:36
+sbtmp4fr.dll
+D:\sobey_intern\12\12\20160429MP4检测准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_X64\sbtmp4fr.dll
+3.16.3.183
+20160429MP4检测准正式补丁(肖潇、李君、熊彪）
+2015/08/26 14:03:02
+SBR_VideoCodecEx.h
+D:\sobey_intern\12\12\20151026HEVC编码器正式补丁(赖真鹏）\SDK_Develop\include\SBR_VideoCodecEx.h
+9999
+20151026HEVC编码器正式补丁(赖真鹏）
+2015/09/22 15:53:45
+SBR_MHEVCCodec.dll
+D:\sobey_intern\12\12\20151026HEVC编码器正式补丁(赖真鹏）\SDK_Runtime\release_32\CodecEX\SBR_MHEVCCodec.dll
+2.0.1.5
+20151026HEVC编码器正式补丁(赖真鹏）
+2016/01/06 16:18:24
+TsCombiner2.lib
+D:\sobey_intern\12\12\20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)\SDK_Develop\LibR\TsCombiner2.lib
+9999
+20160115Tscombiner2TS准正式补丁(v1.16.1.7)(肖潇、李君、熊彪)
+2016/04/29 10:44:36
+sbtImagePro.dll
+D:\sobey_intern\12\12\20160429MOV素材解码正式补丁(吴若寒）\SDK_Runtime\release\sbtImagePro.dll
+1.4.8.36
+20160429MOV素材解码正式补丁(吴若寒）
+2016/04/05 15:26:54
+sbtmxfboost.lib
+D:\sobey_intern\12\12\20160422mxfboost准正式补丁(肖潇、李君、熊彪）\SDK_Develop\libr_x64\sbtmxfboost.lib
+9999
+20160422mxfboost准正式补丁(肖潇、李君、熊彪）
+2015/10/22 13:51:56
+sbtmp4fw2.dll
+D:\sobey_intern\12\12\20160115准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_X64\sbtmp4fw2.dll
+2.9.22.109
+20160115准正式补丁(肖潇、李君、熊彪)
+2015/04/27 15:51:11
+SBR_SobeyCodec.dll
+D:\sobey_intern\12\12\20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update\SDK_Runtime\release\CodecEX\SBR_SobeyCodec.dll
+0.0.0.4
+20160311MP4生成准正式补丁（肖潇、李君、熊彪）_update
+2016/01/04 10:22:43
+SBT_Mp4Box.h
+D:\sobey_intern\12\12\20160201mp4box准正式补丁(李君、熊彪）\SDK_Develop\include\SBT_Mp4Box.h
+9999
+20160201mp4box准正式补丁(李君、熊彪）
+2016/04/29 11:26:22
+sbtmp4fr.dll
+D:\sobey_intern\12\12\20160429MP4检测准正式补丁(肖潇、李君、熊彪）\SDK_Runtime\release_X65\sbtmp4fr.dll
+3.16.3.183
+20160429MP4检测准正式补丁(肖潇、李君、熊彪）
+2014/07/23 09:51:40
+SMDK-VC90-x64-4_5_1.dll
+D:\sobey_intern\12\12\20160119准正式补丁(肖潇、李君、熊彪)\SDK_Runtime\release_x64\SMDK-VC90-x64-4_5_1.dll
+4.5.1.100
+20160119准正式补丁(肖潇、李君、熊彪)
